@@ -17,7 +17,7 @@ Je me passionne pour les anciennes technologies et notamment les projets et para
 - Lex/Yacc : quoi de mieux que des grammaires pour résoudre des problèmes ?
 - TeX : Donald Knuth nous a donné un langage de traitement de texte Turing-complet
 - Minecraft : tout autant Turing-complet que TeX
-- Python/Flask : contribution à l'outil en ligne de gestion des notes des IUT 
+- Python/Flask : contribution à l'outil des IUT Scodoc version 9.7.97 sur la fonctionnalité d'une page de saisie centrée sur l'étudiant plutôt que l'évaluation
 
 ---
 
